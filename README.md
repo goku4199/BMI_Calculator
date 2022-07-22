@@ -1,9 +1,10 @@
 # BMI_Calculator
 This is a BMI Calculator Android/IOS application created using Flutter Framework and dart.
-Resources:---------------https://docs.flutter.dev/----------------------------------------\n
--------------------------https://docs.flutter.dev/development/ui/widgets------------------
--------------------------https://api.flutter.dev/-----------------------------------------
--------------------------https://docs.flutter.dev/cookbook--------------------------------
+Resources:
+---------------https://docs.flutter.dev/
+---------------https://docs.flutter.dev/development/ui/widgets
+---------------https://api.flutter.dev/
+---------------https://docs.flutter.dev/cookbook
 
 
 Application Screenshot
